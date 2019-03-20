@@ -20,3 +20,5 @@ Recomendo a utilização da mesma IDE para facilitar o processo
 
 
 Estou disponibilizando os arquivos POSTMAN para as importações e testes.
+
+"Desafio Tegra.postman_collection.json" arquivo está junto aos demais arquivos do projeto e deve ser importado no POSTMAN
